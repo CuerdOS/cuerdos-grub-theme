@@ -3,7 +3,7 @@ The official Grub theme for CuerdOS, based on the Xenlism Grub Theme [https://gi
 The reason for this fork has been to build on an already well-built theme to modify it so that it has the visual identity of CuerdOS.
 
 ### Installation guide:
-for debian based distros
+(for debian based distros)
 
 ```
 sudo nano /etc/default/grub
