@@ -15,4 +15,5 @@ GRUB_CMDLINE_LINUX_DEFAULT="quiet splash"
 And paste this at the bottom (don't forget to leave the last line empty):
 ```
 GRUB_THEME="/boot/grub/themes/cuerdos-grub/theme.txt"
+
 ```
