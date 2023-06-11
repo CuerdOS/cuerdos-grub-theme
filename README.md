@@ -17,7 +17,7 @@ And paste this at the bottom (don't forget to leave the last line empty):
 GRUB_THEME="/boot/grub/themes/cuerdos-grub/theme.txt"
 
 ```
-And finally update the Grub configuration
+And finally update the Grub configuration:
 ```
 sudo update-grub
 ```
